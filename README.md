@@ -36,4 +36,4 @@ $db['default'] = array(
 ```
 
 6. Import SQL file leadmgmt.sql
-7. Change the base url in config `$config['base_url'] = 'http://localhost/lead-management-system/'`;
+7. Change the base url in config `$config['base_url'] = 'http://localhost/LeadManagement/'`;
